@@ -1,0 +1,99 @@
+
+body{
+	background: url(images/concrete_seamless.png)
+}
+
+
+.navbar-brand{
+	background-color: teal;
+	padding: 10px;
+	margin-left: 70px;
+	color: white;
+}
+
+.navbar-light .navbar-brand{
+	color: white;
+}
+
+.navbar{
+	border-bottom: solid black;
+	padding: 0px;
+	margin-bottom: 40px;
+}
+
+#navbarText{
+	margin-left: 400px;
+}
+
+.sectionheader{
+	color: teal;
+	border-bottom: solid lightgrey;
+	background-color: white;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+.mainsection{
+	background-color: white;
+	text-align: justify;
+	padding: 25px;
+}
+
+.aboutimage {
+	float: left;
+	margin-right: 15px;
+}
+
+.sidebarheader{
+	color: teal;
+	border-bottom: solid lightgrey;
+	padding: 20px;
+	overflow: auto;
+}
+
+.sidebar{
+	background-color: white;
+	text-align: center;
+	max-height: 300px;
+	padding: 30px;
+
+
+}
+
+.social{
+	width: 50px;
+  	height: 50px;
+  	margin-top: 8px;
+  	margin-right: 5px;
+}
+
+.footer{
+	background-color: white;
+	text-align: center;
+	margin-top: 200px;
+    padding: 25px;
+}
+
+.portimages img{
+	width: 100%;
+	padding: 0px;
+}
+
+.portimages h3{
+	position: relative;
+	width: 100%;
+	background-color: teal;
+	text-align: center;
+	padding: 10px;
+	top: -80px;
+	opacity: .8;
+	color: white;
+}
+
+.row,
+.portimages{
+	margin-right: 0;
+	margin-left: 0;
+}
+
+
